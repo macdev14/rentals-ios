@@ -14,7 +14,7 @@
 
 ## Introduction
 
-SwiftBnB is a mobile application developed using Swift, mimicking the core functionalities of Airbnb. This project is designed to facilitate the learning and understanding of iOS development, UI/UX design, and the integration of various third-party services.
+Rentals is a mobile application developed using Swift, mimicking the core functionalities of Airbnb. This project is designed to facilitate the learning and understanding of iOS development, UI/UX design, and the integration of various third-party services.
 
 ## Features
 
