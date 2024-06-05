@@ -1,4 +1,4 @@
-# SwiftBnB - An Airbnb Clone
+# Rentals - An Airbnb Clone
 
 ## Table of Contents
 
